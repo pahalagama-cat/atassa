@@ -8,7 +8,7 @@
   "stack": "heroku-22",
   "env": {
     "SESSION_ID": {
-      "description": "Your bot SESSION_ID. Get one from the pairing session page.",
+      "description": "Gifted~PP8A5Qpnz6bf",
       "required": true,
       "value": ""
     },
